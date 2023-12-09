@@ -5,9 +5,9 @@
   <a href="https://www.linkedin.com/in/amey-morye-983429217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aney morye" height="30" width="40" /></a> | 
 </p>
 
--🧠 I'm currently studying databases and back-end technologies in-depth
+-⚡️  I'm currently working on [Expense Managing Web App](https://github.com/amey5111/TrackEx-Expense-Managing-Webapp)
 
--🤝  I'm looking For apportunuity to work as Full Stack Developer 👨‍💻
+-🤝  I'm looking For apportunuity to work as Software Developer 👨‍💻
 
 -📫 Reach me at <a href="ameymorye5111@gmail.com ">ameymorye5111@gmail.com </a>
 <h2> 🛠 Skills </h2>
@@ -20,7 +20,7 @@
   <img height="50" width="50" src = "https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Materialize UI"></img> 
   <img height="40" width="40" src = "https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="TailwindCSS"></img>
   <img height="50" width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="NodeJs"></img> 
-  <img height="50" width="50" src = "https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB"> and so on incrementing daay by day... :)
+  <img height="50" width="50" src = "https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB"> and on my way of Learning more... :)
   <h3>Programming Languages</h3>
   <img height="50" width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"alt="Python"></img> 
   <img height="50" width="50" src = "https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C++"></img> 
