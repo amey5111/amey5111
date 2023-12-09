@@ -1,9 +1,15 @@
 <h1 align="center"> Hi 👋, I'm Amey Dilip Morye</h1>
-<h3 align="center">A Passionate Full Stack Developer, Exploring new technologies in Software Developement Field </h3>
+<h3 align="center"> Exploring new technologies in Software Developement Field and Want to contrubute my Best In It </h3>
 <p align="right">
    | 🔗 You can Connect me on | 
   <a href="https://www.linkedin.com/in/amey-morye-983429217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aney morye" height="30" width="40" /></a> | 
 </p>
+
+-🧠 I'm currently learning In depth of BackEnd Techologies and DataBases
+
+-🤝  I'm looking For apportunuity to work as Full Stack Developer 👨‍💻
+
+-📫 Reach me at <a href="ameymorye5111@gmail.com ">ameymorye5111@gmail.com </a>
 <h2> 🛠 Skills </h2>
 <h3>Web Developement Related Skill-Set</h3>
 <div>
@@ -20,3 +26,7 @@
   <img height="50" width="50" src = "https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C++"></img> 
   <img height="40" width="40" src = "https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java"></img>
 </div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amey5111&show_icons=true&locale=en&layout=compact" alt="amey5111" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amey5111&show_icons=true&locale=en&layout=compact" alt="amey5111" /></p>
