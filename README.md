@@ -26,6 +26,6 @@
   <img height="50" width="50" src = "https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C++"></img> 
   <img height="40" width="40" src = "https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java"></img>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amey5111&layout=compact&theme=solarized-light&card_width=500" alt="amey5111" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amey5111&layout=compact&theme=solarized-light&card_width=450" alt="amey5111" /></p>
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=amey5111&show_icons=true&locale=en&layout=compact&hide=issues,contribs,prs&theme=transparent&hide_rank=true" alt="amey5111" /></p>
 
