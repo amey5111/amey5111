@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/amey-morye-983429217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aney morye" height="30" width="40" /></a> | 
 </p>
 
--⚡️  I'm currently working on [Expense Managing Web App](https://github.com/amey5111/TrackEx-Expense-Managing-Webapp)
+-⚡️  I'm currently working on [Expense Managing Web App](https://github.com/amey5111/Coin_Clique)
 
 -🤝  I'm looking For apportunuity to work as Software Developer 👨‍💻
 
